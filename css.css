@@ -3,3 +3,15 @@
 .row {
 background-color:blue;
 }
+
+#tryit {
+  width:56px;
+}
+
+#menubar {
+  color:red;
+}
+
+#mainArea {
+  color:blue;
+}
