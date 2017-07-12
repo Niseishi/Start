@@ -4,6 +4,14 @@
 background-color:blue;
 }
 
-# tryit {
+#tryit {
   width:56px;
+}
+
+#menubar {
+  color:red;
+}
+
+#mainArea {
+  color:blue;
 }
